@@ -3,6 +3,9 @@ Overwatch emojis for Discord.
 
 [Download](https://github.com/Kala30/overwatch-emoji/archive/master.zip)
 
+## Overwatch League
+![Boston Uprising](OWL/uprising.png) ![Dallas Fuel](OWL/fuel.png)  ![Florida Mayhem](OWL/mayhem.png) ![Houston Outlaws](OWL/outlaws.png) ![London Spitfire](OWL/spitfire.png) ![LA Gladiators](OWL/gladiators.png) ![LA Valiant](OWL/valiant.png) ![New York Excelsior](OWL/excelsior.png) ![Philadelphia Fusion](OWL/fusion.png) ![San Francisco Shock](OWL/shock.png) ![Seoul Dynasty](OWL/dynasty.png) ![Shanghai Dragons](OWL/dragons.png)
+
 ## Offense
 ![Doomfist](Heroes/doomfist.png) ![Genji](Heroes/genji.png) ![McCree](Heroes/mccree.png) ![Pharah](Heroes/pharah.png) ![Reaper](Heroes/reaper.png) ![Soldier 76](Heroes/soldier_76.png) ![Sombra](Heroes/sombra.png) ![Tracer](Heroes/tracer.png)
 
