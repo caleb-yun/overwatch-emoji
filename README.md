@@ -10,7 +10,7 @@ Overwatch emojis for Discord.
 ![D.Va](Heroes/dva.png) ![Orisa](Heroes/orisa.png) ![Reinhardt](Heroes/reinhardt.png) ![Roadhog](Heroes/roadhog.png) ![Winston](Heroes/winston.png) ![Zarya](Heroes/zarya.png)
 
 ## Damage
-![Bastion](Heroes/bastion.png) [Doomfist](Heroes/doomfist.png) ![Genji](Heroes/genji.png) ![Hanzo](Heroes/hanzo.png) ![Junkrat](Heroes/junkrat.png) ![McCree](Heroes/mccree.png) ![Mei](Heroes/mei.png) ![Pharah](Heroes/pharah.png) ![Reaper](Heroes/reaper.png) ![Soldier: 76](Heroes/soldier76.png) ![Sombra](Heroes/sombra.png) ![Symetra](Heroes/symetra.png) ![Torbjorn](Heroes/torbjorn.png ![Tracer](Heroes/tracer.png) ![Widowmaker](Heroes/widowmaker.png)
+![Bastion](Heroes/bastion.png) ![Doomfist](Heroes/doomfist.png) ![Genji](Heroes/genji.png) ![Hanzo](Heroes/hanzo.png) ![Junkrat](Heroes/junkrat.png) ![McCree](Heroes/mccree.png) ![Mei](Heroes/mei.png) ![Pharah](Heroes/pharah.png) ![Reaper](Heroes/reaper.png) ![Soldier: 76](Heroes/soldier76.png) ![Sombra](Heroes/sombra.png) ![Symetra](Heroes/symetra.png) ![Torbjorn](Heroes/torbjorn.png) ![Tracer](Heroes/tracer.png) ![Widowmaker](Heroes/widowmaker.png)
 
 ## Support
 ![Ana](Heroes/ana.png) ![Lúcio](Heroes/lucio.png) ![Mercy](Heroes/mercy.png) ![Moira](Heroes/moira.png) ![Zenyatta](Heroes/zenyatta.png)
