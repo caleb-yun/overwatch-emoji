@@ -4,20 +4,20 @@ Overwatch emojis for Discord.
 [Download](https://github.com/Kala30/overwatch-emoji/archive/master.zip)
 
 ## Twitch Emotes
-![Ana](Twitch/ana.png) ![Bastion](Twitch/bastion.png) ![B.O.B.](Twitch/bob.png) ![Doomfist](Twitch/doomfist.png) ![D.Va](Twitch/dva.png) ![Genji](Twitch/genji.png) ![Hanzo](Twitch/hanzo.png) ![Junkrat](Twitch/junkrat.png) ![Lúcio](Twitch/lucio.png) ![McCree](Twitch/mccree.png) ![Mei](Twitch/mei.png) ![Mercy](Twitch/mercy.png) ![Moira](Twitch/moira.png) ![Orisa](Twitch/orisa.png) ![Pharah](Twitch/pharah.png) ![Reaper](Twitch/reaper.png) ![Reinhardt](Twitch/reinhardt.png) ![Roadhog](Twitch/roadhog.png) ![Soldier: 76](Twitch/soldier76.png) ![Sombra](Twitch/sombra.png) ![Symmetra](Twitch/symmetra.png) ![Torbjorn](Twitch/torbjorn.png) ![Tracer](Twitch/tracer.png) ![Widowmaker](Twitch/widowmaker.png) ![Winston](Twitch/winston.png) ![Zarya](Twitch/zarya.png) ![Zenyatta](Twitch/zenyatta.png)
+![Ana](Preview/ana.png) ![Bastion](Preview/bastion.png) ![B.O.B.](Preview/bob.png) ![Doomfist](Preview/doomfist.png) ![D.Va](Preview/dva.png) ![Genji](Preview/genji.png) ![Hanzo](Preview/hanzo.png) ![Junkrat](Preview/junkrat.png) ![Lúcio](Preview/lucio.png) ![McCree](Preview/mccree.png) ![Mei](Preview/mei.png) ![Mercy](Preview/mercy.png) ![Moira](Preview/moira.png) ![Orisa](Preview/orisa.png) ![Pharah](Preview/pharah.png) ![Reaper](Preview/reaper.png) ![Reinhardt](Preview/reinhardt.png) ![Roadhog](Preview/roadhog.png) ![Soldier: 76](Preview/soldier76.png) ![Sombra](Preview/sombra.png) ![Symmetra](Preview/symmetra.png) ![Torbjorn](Preview/torbjorn.png) ![Tracer](Preview/tracer.png) ![Widowmaker](Preview/widowmaker.png) ![Winston](Preview/winston.png) ![Zarya](Preview/zarya.png) ![Zenyatta](Preview/zenyatta.png)
 
 
 ## Tank
-![D.Va](Heroes/dva.png) ![Orisa](Heroes/orisa.png) ![Reinhardt](Heroes/reinhardt.png) ![Roadhog](Heroes/roadhog.png) ![Winston](Heroes/winston.png) ![Zarya](Heroes/zarya.png)
+![D.Va](Preview/dva.png) ![Orisa](Preview/orisa.png) ![Reinhardt](Preview/reinhardt.png) ![Roadhog](Preview/roadhog.png) ![Winston](Preview/winston.png) ![Zarya](Preview/zarya.png)
 
 ## Damage
-![Bastion](Heroes/bastion.png) ![Doomfist](Heroes/doomfist.png) ![Genji](Heroes/genji.png) ![Hanzo](Heroes/hanzo.png) ![Junkrat](Heroes/junkrat.png) ![McCree](Heroes/mccree.png) ![Mei](Heroes/mei.png) ![Pharah](Heroes/pharah.png) ![Reaper](Heroes/reaper.png) ![Soldier: 76](Heroes/soldier76.png) ![Sombra](Heroes/sombra.png) ![Symmetra](Heroes/symmetra.png) ![Torbjorn](Heroes/torbjorn.png) ![Tracer](Heroes/tracer.png) ![Widowmaker](Heroes/widowmaker.png)
+![Bastion](Preview/bastion.png) ![Doomfist](Preview/doomfist.png) ![Genji](Preview/genji.png) ![Hanzo](Preview/hanzo.png) ![Junkrat](Preview/junkrat.png) ![McCree](Preview/mccree.png) ![Mei](Preview/mei.png) ![Pharah](Preview/pharah.png) ![Reaper](Preview/reaper.png) ![Soldier: 76](Preview/soldier76.png) ![Sombra](Preview/sombra.png) ![Symmetra](Preview/symmetra.png) ![Torbjorn](Preview/torbjorn.png) ![Tracer](Preview/tracer.png) ![Widowmaker](Preview/widowmaker.png)
 
 ## Support
-![Ana](Heroes/ana.png) ![Lúcio](Heroes/lucio.png) ![Mercy](Heroes/mercy.png) ![Moira](Heroes/moira.png) ![Zenyatta](Heroes/zenyatta.png)
+![Ana](Preview/ana.png) ![Lúcio](Preview/lucio.png) ![Mercy](Preview/mercy.png) ![Moira](Preview/moira.png) ![Zenyatta](Preview/zenyatta.png)
 
 ## Overwatch League Atlantic Division
-![Atlanta Reign](OWL/reign.png) ![Boston Uprising](OWL/uprising.png) ![Florida Mayhem](OWL/mayhem.png) ![Houston Outlaws](OWL/outlaws.png) ![London Spitfire](OWL/spitfire.png) ![New York Excelsior](OWL/excelsior.png) ![Paris Eternal](OWL/eternal.png) ![Philadelphia Fusion](OWL/fusion.png) ![Toronto Defiant](OWL/defiant.png)
+![Atlanta Reign](Preview/reign.png) ![Boston Uprising](Preview/uprising.png) ![Florida Mayhem](Preview/mayhem.png) ![Houston Outlaws](Preview/outlaws.png) ![London Spitfire](Preview/spitfire.png) ![New York Excelsior](Preview/excelsior.png) ![Paris Eternal](Preview/eternal.png) ![Philadelphia Fusion](Preview/fusion.png) ![Toronto Defiant](Preview/defiant.png)
 
 ## Overwatch League Pacific Division
-![Chengdu Hunters](OWL/hunters.png) ![Dallas Fuel](OWL/fuel.png) ![Guangzhou Charge](OWL/charge.png) ![Los Angeles Gladiators](OWL/gladiators.png) ![LA Valiant](OWL/valiant.png) ![San Francisco Shock](OWL/shock.png) ![Seoul Dynasty](OWL/dynasty.png) ![Shanghai Dragons](OWL/dragons.png)
+![Chengdu Hunters](Preview/hunters.png) ![Dallas Fuel](Preview/fuel.png) ![Guangzhou Charge](Preview/charge.png) ![Los Angeles Gladiators](Preview/gladiators.png) ![LA Valiant](Preview/valiant.png) ![San Francisco Shock](Preview/shock.png) ![Seoul Dynasty](Preview/dynasty.png) ![Shanghai Dragons](Preview/dragons.png)
