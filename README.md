@@ -4,7 +4,7 @@ Overwatch emojis for Discord.
 [Download](https://github.com/Kala30/overwatch-emoji/archive/master.zip)
 
 ## Twitch Emotes
-![](https://cdn-images-1.medium.com/max/1200/1*fYHu8oLjCov7HA3l81xh0A.jpeg)
+![](https://i.imgur.com/PGDQeP5.jpg)
 
 ## Offense
 ![Doomfist](Heroes/doomfist.png) ![Genji](Heroes/genji.png) ![McCree](Heroes/mccree.png) ![Pharah](Heroes/pharah.png) ![Reaper](Heroes/reaper.png) ![Soldier 76](Heroes/soldier_76.png) ![Sombra](Heroes/sombra.png) ![Tracer](Heroes/tracer.png)
