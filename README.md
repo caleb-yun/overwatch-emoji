@@ -21,5 +21,5 @@ Overwatch emojis for Discord.
 ## Overwatch League Pacific Division
 ![Chengdu Hunters](Preview/hunters.png) ![Dallas Fuel](Preview/fuel.png) ![Guangzhou Charge](Preview/charge.png) ![Los Angeles Gladiators](Preview/gladiators.png) ![LA Valiant](Preview/valiant.png) ![San Francisco Shock](Preview/shock.png) ![Seoul Dynasty](Preview/dynasty.png) ![Shanghai Dragons](Preview/dragons.png)
 
-##General
-![Bronze](Preview/bronze.png) ![Silver](Preview/silver.png) ![Gold](Preview/gold.png) ![Platinum](Preview/platinum.png) ![Diamond](Preview/diamond.png) ![Master](Preview/master.png) ![Grandmaster](Preview/grandmaster.png) ![Top 500](Preview/top500.png) ![Overwatch](Preview/overwatch.png) ![Blackwatch](Preview/blackwatch.png) ![Athena](Preview/athena.png) ![Overwatch League](Preview/overwatch_league) ![Pachimari](Preview/pachimari.png)
+## General
+![Bronze](Preview/bronze.png) ![Silver](Preview/silver.png) ![Gold](Preview/gold.png) ![Platinum](Preview/platinum.png) ![Diamond](Preview/diamond.png) ![Master](Preview/master.png) ![Grandmaster](Preview/grandmaster.png) ![Top 500](Preview/top500.png) ![Overwatch](Preview/overwatch.png) ![Blackwatch](Preview/blackwatch.png) ![Athena](Preview/athena.png) ![Overwatch League](Preview/overwatch_league.png) ![Pachimari](Preview/pachimari.png)
