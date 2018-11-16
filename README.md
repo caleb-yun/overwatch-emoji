@@ -1,5 +1,5 @@
 # Overwatch Emoji
-Overwatch Emojis for Discord.
+Overwatch Emoji for Discord.
 
 [Download](https://github.com/Kala30/overwatch-emoji/archive/master.zip)
 
