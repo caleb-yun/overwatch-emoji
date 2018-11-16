@@ -1,22 +1,25 @@
 # Overwatch Emoji
-Overwatch emojis for Discord.
+Overwatch Emojis for Discord.
 
 [Download](https://github.com/Kala30/overwatch-emoji/archive/master.zip)
 
 ## Twitch Emotes
-![](https://cdn-images-1.medium.com/max/1200/1*fYHu8oLjCov7HA3l81xh0A.jpeg)
-
-## Offense
-![Doomfist](Heroes/doomfist.png) ![Genji](Heroes/genji.png) ![McCree](Heroes/mccree.png) ![Pharah](Heroes/pharah.png) ![Reaper](Heroes/reaper.png) ![Soldier 76](Heroes/soldier_76.png) ![Sombra](Heroes/sombra.png) ![Tracer](Heroes/tracer.png)
-
-## Defense
-![Bastion](Heroes/bastion.png) ![Hanzo](Heroes/hanzo.png) ![Junkrat](Heroes/junkrat.png) ![Mei](Heroes/mei.png) ![Torbjorn](Heroes/torbjorn.png) ![Widowmaker](Heroes/widowmaker.png)
+![Ana](Preview/ana.png) ![Bastion](Preview/bastion.png) ![B.O.B.](Preview/bob.png) ![Doomfist](Preview/doomfist.png) ![D.Va](Preview/dva.png) ![Genji](Preview/genji.png) ![Hanzo](Preview/hanzo.png) ![Junkrat](Preview/junkrat.png) ![Lúcio](Preview/lucio.png) ![McCree](Preview/mccree.png) ![Mei](Preview/mei.png) ![Mercy](Preview/mercy.png) ![Moira](Preview/moira.png) ![Orisa](Preview/orisa.png) ![Pharah](Preview/pharah.png) ![Reaper](Preview/reaper.png) ![Reinhardt](Preview/reinhardt.png) ![Roadhog](Preview/roadhog.png) ![Soldier: 76](Preview/soldier76.png) ![Sombra](Preview/sombra.png) ![Symmetra](Preview/symmetra.png) ![Torbjorn](Preview/torbjorn.png) ![Tracer](Preview/tracer.png) ![Widowmaker](Preview/widowmaker.png) ![Winston](Preview/winston.png) ![Zarya](Preview/zarya.png) ![Zenyatta](Preview/zenyatta.png)
 
 ## Tank
-![D.Va](Heroes/d.va.png) ![Orisa](Heroes/orisa.png) ![Reinhardt](Heroes/reinhardt.png) ![](Heroes/roadhog.png) ![Winston](Heroes/winston.png) ![Zarya](Heroes/zarya.png)
+![D.Va](Preview/dva-cute.png) ![Orisa](Preview/orisa-cute.png) ![Reinhardt](Preview/reinhardt-cute.png) ![Roadhog](Preview/roadhog-cute.png) ![Winston](Preview/winston-cute.png) ![Zarya](Preview/zarya-cute.png)
+
+## Damage
+![Bastion](Preview/bastion-cute.png) ![Doomfist](Preview/doomfist-cute.png) ![Genji](Preview/genji-cute.png) ![Hanzo](Preview/hanzo-cute.png) ![Junkrat](Preview/junkrat-cute.png) ![McCree](Preview/mccree-cute.png) ![Mei](Preview/mei-cute.png) ![Pharah](Preview/pharah-cute.png) ![Reaper](Preview/reaper-cute.png) ![Soldier: 76](Preview/soldier76-cute.png) ![Sombra](Preview/sombra-cute.png) ![Symmetra](Preview/symmetra-cute.png) ![Torbjorn](Preview/torbjorn-cute.png) ![Tracer](Preview/tracer-cute.png) ![Widowmaker](Preview/widowmaker-cute.png)
 
 ## Support
-![Ana](Heroes/ana.png) ![Lucio](Heroes/lucio.png) ![Mercy](Heroes/mercy.png) ![Moira](Heroes/moira.png) ![Symmetra](Heroes/symmetra.png) ![Zenyatta](Heroes/zenyatta.png)
+![Ana](Preview/ana-cute.png) ![Lúcio](Preview/lucio-cute.png) ![Mercy](Preview/mercy-cute.png) ![Moira](Preview/moira-cute.png) ![Zenyatta](Preview/zenyatta-cute.png)
 
-## Overwatch League
-![Boston Uprising](OWL/uprising.png) ![Dallas Fuel](OWL/fuel.png)  ![Florida Mayhem](OWL/mayhem.png) ![Houston Outlaws](OWL/outlaws.png) ![London Spitfire](OWL/spitfire.png) ![LA Gladiators](OWL/gladiators.png) ![LA Valiant](OWL/valiant.png) ![New York Excelsior](OWL/excelsior.png) ![Philadelphia Fusion](OWL/fusion.png) ![San Francisco Shock](OWL/shock.png) ![Seoul Dynasty](OWL/dynasty.png) ![Shanghai Dragons](OWL/dragons.png)
+## Overwatch League Atlantic Division
+![Atlanta Reign](Preview/reign.png) ![Boston Uprising](Preview/uprising.png) ![Florida Mayhem](Preview/mayhem.png) ![Houston Outlaws](Preview/outlaws.png) ![London Spitfire](Preview/spitfire.png) ![New York Excelsior](Preview/excelsior.png) ![Paris Eternal](Preview/eternal.png) ![Philadelphia Fusion](Preview/fusion.png) ![Toronto Defiant](Preview/defiant.png)
+
+## Overwatch League Pacific Division
+![Chengdu Hunters](Preview/hunters.png) ![Dallas Fuel](Preview/fuel.png) ![Guangzhou Charge](Preview/charge.png) ![Los Angeles Gladiators](Preview/gladiators.png) ![LA Valiant](Preview/valiant.png) ![San Francisco Shock](Preview/shock.png) ![Seoul Dynasty](Preview/dynasty.png) ![Shanghai Dragons](Preview/dragons.png)
+
+## General
+![Bronze](Preview/bronze.png) ![Silver](Preview/silver.png) ![Gold](Preview/gold.png) ![Platinum](Preview/platinum.png) ![Diamond](Preview/diamond.png) ![Master](Preview/master.png) ![Grandmaster](Preview/grandmaster.png) ![Top 500](Preview/top500.png) ![Overwatch](Preview/overwatch.png) ![Blackwatch](Preview/blackwatch.png) ![Athena](Preview/athena.png) ![Overwatch League](Preview/overwatch_league.png) ![Pachimari](Preview/pachimari.png)
